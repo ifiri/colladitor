@@ -1,0 +1,1 @@
+export const cutUnsupportedBlocks = <T>(arr: T[]) => arr.filter((x) => x) as NonNullable<T>[];

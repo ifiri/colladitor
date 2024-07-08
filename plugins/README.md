@@ -1,0 +1,1 @@
+In this folder lays plugins which copied from Prosemirror repository. Not author's code
